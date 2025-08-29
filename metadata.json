@@ -1,0 +1,5 @@
+{
+  "name": "Toma - Recipe Generator AI",
+  "description": "An application that generates recipes based on a list of available ingredients provided by the user, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
